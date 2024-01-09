@@ -1,0 +1,17 @@
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\bin\Debug\net6.0-windows\BMI_Rechner.exe
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\bin\Debug\net6.0-windows\BMI_Rechner.deps.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\bin\Debug\net6.0-windows\BMI_Rechner.runtimeconfig.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\bin\Debug\net6.0-windows\BMI_Rechner.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\bin\Debug\net6.0-windows\BMI_Rechner.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.csproj.AssemblyReference.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.Form1.resources
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.csproj.GenerateResource.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\refint\BMI_Rechner.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\BMI_Rechner.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\BMI_Rechner\BMI_Rechner\obj\Debug\net6.0-windows\ref\BMI_Rechner.dll
