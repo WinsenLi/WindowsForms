@@ -1,0 +1,17 @@
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\bin\Debug\net6.0-windows\Benutzereinbage und Ausgabe.exe
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\bin\Debug\net6.0-windows\Benutzereinbage und Ausgabe.deps.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\bin\Debug\net6.0-windows\Benutzereinbage und Ausgabe.runtimeconfig.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\bin\Debug\net6.0-windows\Benutzereinbage und Ausgabe.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\bin\Debug\net6.0-windows\Benutzereinbage und Ausgabe.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.csproj.AssemblyReference.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage_und_Ausgabe.Form1.resources
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.csproj.GenerateResource.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\refint\Benutzereinbage und Ausgabe.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\Benutzereinbage und Ausgabe.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Benutzereinbage und Ausgabe\Benutzereinbage und Ausgabe\obj\Debug\net6.0-windows\ref\Benutzereinbage und Ausgabe.dll
