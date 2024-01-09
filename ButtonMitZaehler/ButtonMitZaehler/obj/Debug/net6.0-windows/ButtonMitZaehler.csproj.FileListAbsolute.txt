@@ -1,0 +1,17 @@
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\bin\Debug\net6.0-windows\ButtonMitZaehler.exe
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\bin\Debug\net6.0-windows\ButtonMitZaehler.deps.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\bin\Debug\net6.0-windows\ButtonMitZaehler.runtimeconfig.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\bin\Debug\net6.0-windows\ButtonMitZaehler.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\bin\Debug\net6.0-windows\ButtonMitZaehler.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.csproj.AssemblyReference.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.Form1.resources
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.csproj.GenerateResource.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\refint\ButtonMitZaehler.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ButtonMitZaehler.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\ButtonMitZaehler\ButtonMitZaehler\obj\Debug\net6.0-windows\ref\ButtonMitZaehler.dll
