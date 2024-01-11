@@ -1,0 +1,17 @@
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\bin\Debug\net6.0-windows\Advanced Calculator.exe
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\bin\Debug\net6.0-windows\Advanced Calculator.deps.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\bin\Debug\net6.0-windows\Advanced Calculator.runtimeconfig.json
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\bin\Debug\net6.0-windows\Advanced Calculator.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\bin\Debug\net6.0-windows\Advanced Calculator.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.csproj.AssemblyReference.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced_Calculator.Form1.resources
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.csproj.GenerateResource.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\refint\Advanced Calculator.dll
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.pdb
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\Advanced Calculator.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\repos\WindowsForms\Advanced Calculator\Advanced Calculator\obj\Debug\net6.0-windows\ref\Advanced Calculator.dll
